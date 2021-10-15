@@ -1,0 +1,9 @@
+.home{
+    display: flex;
+    background: linear-gradient(
+        rgb(5, 5, 5),
+        rgba(56, 56, 56, 0.295)
+        ),
+    url("https://files.fm/thumb_show.php?i=95vc6s8ex");
+    background-size: cover;
+}
